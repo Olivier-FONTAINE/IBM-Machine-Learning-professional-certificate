@@ -6,8 +6,6 @@ Here, you can find my project works related to my IBM Machine Learning course (2
 
 🎯 The project objective is to get deep insight into the dataset "IBM HR Analytics Employee Attrition and Performance" from the EDA.
 
-![Attrition by overall satisfaction](01-Exploratory Data Analysis/Attrition by overall satisfaction.png?raw=true "Attrition by overall satisfaction")
-
 ## Regression
 
 🎯 The project objective is to find the features that are the most important to explain total reward in a company. 
