@@ -1,6 +1,6 @@
 # IBM-Machine-Learning-professional-certificate
 
-Here, you can find my project works related to my IBM Machine Learning course:
+Here, you can find my project works related to my IBM Machine Learning course (2021/2022):
 
 ## Exploratory Data Analysis
 
